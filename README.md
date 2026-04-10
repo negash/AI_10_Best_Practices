@@ -1,10 +1,11 @@
-#  AI 10 Best Practices
+![Banner](./assets/10_AI_Best_Practices.png)
+
+## 10 AI Best Practices to Save Tokens = Save Money
 
 ![AI](https://img.shields.io/badge/AI-Best%20Practices-blue)
 ![Cost Optimization](https://img.shields.io/badge/Focus-Cost%20Optimization-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-## 10 AI Best Practices to Save Tokens = Save Money
 
 # 📄 Full Guide
 
